@@ -22,5 +22,5 @@ Le message est important
 - Permet de se déplacer d'une branche à une autre
 - Avec l'option -b checkout créé la branche si elle n'existe pas
 
-## git push
+## git pull
 - Permet de récupérer les modifications distantes
