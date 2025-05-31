@@ -29,3 +29,13 @@ Le message est important
 - Permet de récuperer les modifications de la branche mére
 - Les modifications de la branche mére sont placées au dessous des modifications de la branche courante
 - Les modifications de la branche courante sont placées au dessus des modifications de la branche mére
+
+## git reset
+- Permet de supprimer un commit
+- Permet de revenir à un commit défini par son identifiant
+- Attenttion à utiliser avec précaution
+
+## git diff
+- Permet de compare deux commits
+
+
