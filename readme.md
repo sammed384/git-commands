@@ -24,3 +24,8 @@ Le message est important
 
 ## git pull
 - Permet de récupérer les modifications distantes
+
+## git rebase
+- Permet de récuperer les modifications de la branche mére
+- Les modifications de la branche mére sont placées au dessous des modifications de la branche courante
+- Les modifications de la branche courante sont placées au dessus des modifications de la branche mére
